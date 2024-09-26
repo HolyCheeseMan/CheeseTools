@@ -14,6 +14,9 @@ You simply paste or type in the raw information of the script as a URL and press
 - Than you will need to run two commands in the Python Terminal: `pip install customtkinter` and `pip install requests`. These commands will install the required files that Simple Installer uses.
 - Now run the script using your Python terminal or in any code application that supports running scripts like **Visual Studio.**
 
+![image](https://github.com/user-attachments/assets/ff7b588e-f6f3-43c2-a764-5c6c6fcb0903)
+
+
 ### Executable:
 
 - To use the Executable version all you need to do is download. The only reason that the **.exe** is attached is for simplicity of use for this tool. This means you wont have to download Python, run the commands in the Python Terminal and run the file manually but instead you just run the **.exe** and it works.
