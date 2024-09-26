@@ -18,3 +18,6 @@ You simply paste or type in the raw information of the script as a URL and press
 
 - To use the Executable version all you need to do is download. The only reason that the **.exe** is attached is for simplicity of use for this tool. This means you wont have to download Python, run the commands in the Python Terminal and run the file manually but instead you just run the **.exe** and it works.
 - The problem with using the Executable version is that it was built using **pyinstaller** which alot of Python-based viruses use to hide script from the user. This is a problem because this will bring false-positives when you scan the file in things like **Virus Total** or with your installed Anti-Virus. Although the **.exe** is entirely safe, you can just run the source code if your anti-virus is receiving false positives.
+
+![image](https://github.com/user-attachments/assets/6ba96b4f-a5a8-452d-97fc-50581001fd48)
+
